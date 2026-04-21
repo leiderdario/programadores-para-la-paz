@@ -47,15 +47,3 @@ programadores-para-la-paz/
 **“La tecnología al servicio de la paz comienza con el uso responsable y consciente de la información.”**
 
 ---
-
-### Cómo subirlo ahora (comandos):
-
-```bash
-# Desde la carpeta del proyecto
-echo "# Programadores Para La Paz - Leider Dario Bolaño Agámez" > README.md
-
-# (Luego pega todo el contenido arriba usando tu editor preferido: VS Code, Notepad++, etc.)
-
-git add README.md
-git commit -m "Add README.md - Presentación profesional del repositorio"
-git push origin main
