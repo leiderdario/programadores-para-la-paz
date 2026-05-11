@@ -35,6 +35,16 @@ programadores-para-la-paz/
 ## 🔗 Enlace a la actividad de la Semana 1
 → [semana1/](https://github.com/leiderdario/programadores-para-la-paz/tree/main/semana1)
 
+## ✅ Semana 2 — Terminal, Carpetas, Archivos y Git
+
+- **Terminal**: Uso de la línea de comandos para interactuar con el sistema operativo.
+- **Navegación de carpetas**: Comandos pwd, ls, cd para moverse en el sistema de archivos.
+- **Creación de archivos y carpetas**: Uso de mkdir y touch desde la terminal.
+- **Git**: Registro y publicación del trabajo con git add, git commit y git push.
+
+→ [semana2/](https://github.com/leiderdario/programadores-para-la-paz/tree/main/semana2)
+
+
 ## 🚀 Habilidades demostradas
 - Creación y configuración de repositorio en GitHub
 - Uso correcto de Git (add, commit, push)
