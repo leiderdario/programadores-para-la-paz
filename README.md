@@ -21,9 +21,12 @@ programadores-para-la-paz/
 │   ├── preguntas-semana1.txt
 │   ├── reflexion-semana1.txt
 │   └── algoritmo-semana1.txt
+├── semana2/
+│   ├── preguntas-semana2.txt
+│   ├── comandos-terminal.txt
+│   └── reflexion-semana2.txt
 ├── README.md
-└── .gitignor
-
+└── .gitignore
 
 ## ✅ Temas trabajados en Semana 1
 
