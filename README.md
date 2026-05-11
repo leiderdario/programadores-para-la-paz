@@ -41,7 +41,8 @@ programadores-para-la-paz/
 - **Navegación de carpetas**: Comandos pwd, ls, cd para moverse en el sistema de archivos.
 - **Creación de archivos y carpetas**: Uso de mkdir y touch desde la terminal.
 - **Git**: Registro y publicación del trabajo con git add, git commit y git push.
-
+- 
+## 🔗 Enlace a la actividad de la Semana 2
 → [semana2/](https://github.com/leiderdario/programadores-para-la-paz/tree/main/semana2)
 
 
