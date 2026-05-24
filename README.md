@@ -3,19 +3,25 @@
 ![Banner](https://img.shields.io/badge/Estado-Completado-brightgreen) ![GitHub](https://img.shields.io/badge/GitHub-Programadores%20Para%20La%20Paz-blue)
 
 ## 📌 Sobre mí
+
 **Leider Dario Bolaño Agámez**  
 Estudiante de **Programadores Para La Paz**  
 Comprometido con el uso ético y responsable de la tecnología para construir una sociedad más justa y pacífica.
 
 ## 🎯 Objetivo del Repositorio
-Este repositorio documenta mi proceso de aprendizaje en **Semana 1, Semana 2 y Semana 3**, donde se trabajaron los conceptos fundamentales de:
+
+Este repositorio documenta mi proceso de aprendizaje en **Semana 1, Semana 2, Semana 3 y Semana 4**, donde se trabajaron los conceptos fundamentales de:
+
 - **Ciudadanía Digital**
 - **Uso responsable de la información**
 - **Pensamiento algorítmico**
 - **Organización técnica del trabajo con Git y GitHub**
 - **Conceptos básicos de Git (repositorio, commit, push)**
+- **Desarrollo de servidores con Node.js y Express**
 
 ## 📁 Estructura del Proyecto
+
+```
 programadores-para-la-paz/
 ├── semana1/
 │   ├── preguntas-semana1.txt
@@ -29,45 +35,61 @@ programadores-para-la-paz/
 │   ├── preguntas-semana3.txt
 │   ├── conceptos-git.txt
 │   └── reflexion-semana3.txt
+├── semana4/
+│   ├── preguntas-semana4.txt
+│   ├── reflexion-semana4.txt
+│   ├── server.js
+│   └── package.json
 ├── README.md
 └── .gitignore
+```
 
 ## ✅ Temas trabajados en Semana 1
+
 - **Ciudadanía Digital**: Uso responsable, ético y consciente de las tecnologías.
 - **Verificación de información**: Combate a la desinformación en internet.
 - **Algoritmos**: Pensamiento computacional y pasos ordenados para resolver problemas.
 - **Git & GitHub**: Control de versiones, commits, push y trabajo colaborativo.
 
 ## ✅ Temas trabajados en Semana 2
+
 - **Uso de la terminal**: Navegación, creación de archivos y ejecución de comandos básicos.
 - **Comandos esenciales**: pwd, ls, mkdir, touch, cd.
 - **Flujos de trabajo con Git**: git add, commit y push para subir cambios a un repositorio remoto.
 
 ## ✅ Temas trabajados en Semana 3
-- **Conceptos básicos de Git**: 
+
+- **Conceptos básicos de Git**:
   - Repositorio (local y remoto)
   - Commit (instantánea de cambios)
   - Push (envío de commits al repositorio remoto)
 
+## ✅ Temas trabajados en Semana 4
+
+- **Node.js**: Entorno de ejecución de JavaScript en el servidor.
+- **npm / pnpm**: Inicialización de proyectos y gestión de dependencias con `pnpm init` y `pnpm add`.
+- **Express**: Framework para construir servidores y APIs en Node.js.
+- **Servidor básico**: Creación de rutas y respuesta a solicitudes HTTP desde el navegador.
+- **Puerto 3000**: Despliegue local y verificación en `http://localhost:3000`.
+
 ## 🔗 Enlaces a las actividades
+
 - [Semana 1](./semana1/)
 - [Semana 2](./semana2/)
 - [Semana 3](./semana3/)
+- [Semana 4](./semana4/)
 
 ## 🚀 Habilidades demostradas
+
 - Creación y configuración de repositorio en GitHub
 - Uso correcto de Git (add, commit, push)
 - Organización estructurada de archivos por semanas
 - Redacción clara de reflexiones, algoritmos y conceptos técnicos
 - Compromiso con la documentación técnica
 - Navegación y uso eficaz de la terminal
+- Inicialización de proyectos Node.js con pnpm
+- Creación de servidores web con Express
 
 ---
 
-**“La tecnología al servicio de la paz comienza con el uso responsable y consciente de la información.”**
-
----
-
-**“La tecnología al servicio de la paz comienza con el uso responsable y consciente de la información.”**
-
----
+**"La tecnología al servicio de la paz comienza con el uso responsable y consciente de la información."**
