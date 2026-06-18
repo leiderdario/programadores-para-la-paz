@@ -48,6 +48,7 @@ programadores-para-la-paz/
 ├── semana6/
 │   ├── preguntas-semana6.txt
 │   ├── reflexion-semana6.txt
+│   ├── prueba api.txt
 │   ├── server.js
 │   └── package.json
 ├── README.md
