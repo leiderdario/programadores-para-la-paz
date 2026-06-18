@@ -152,9 +152,6 @@ Importancia de la estructuración de datos para el procesamiento eficiente y aut
 - [Semana 4](./semana4/)
 - [Semana 5](./semana5/)
 - [Semana 6](./semana6/)
-<<<<<<< HEAD
-
-=======
 - [Semana 7](./semana7/)
 >>>>>>> 10d901f (Agctividad semana 7)
 
