@@ -9,8 +9,8 @@ Estudiante de **Programadores Para La Paz**
 Comprometido con el uso ético y responsable de la tecnología para construir una sociedad más justa y pacífica.
 
 ## 🎯 Objetivo del Repositorio
+Este repositorio documenta mi proceso de aprendizaje en temas de ciudadanía digital, pensamiento algorítmico, Git, Node.js, Express y APIs.
 
-Este repositorio documenta mi proceso de aprendizaje en **Semana 1, Semana 2, Semana 3 y Semana 4**, donde se trabajaron los conceptos fundamentales de:
 
 - **Ciudadanía Digital**
 - **Uso responsable de la información**
@@ -38,6 +38,16 @@ programadores-para-la-paz/
 ├── semana4/
 │   ├── preguntas-semana4.txt
 │   ├── reflexion-semana4.txt
+│   ├── server.js
+│   └── package.json
+├── semana5/
+│   ├── preguntas-semana5.txt
+│   ├── reflexion-semana5.txt
+│   ├── server.js
+│   └── package.json
+├── semana6/
+│   ├── preguntas-semana6.txt
+│   ├── reflexion-semana6.txt
 │   ├── server.js
 │   └── package.json
 ├── README.md
@@ -72,12 +82,26 @@ programadores-para-la-paz/
 - **Servidor básico**: Creación de rutas y respuesta a solicitudes HTTP desde el navegador.
 - **Puerto 3000**: Despliegue local y verificación en `http://localhost:3000`.
 
+## ✅ Temas trabajados en Semana 5
+Conceptos de API: rutas POST y manejo de datos JSON.
+
+## ✅ Temas trabajados en Semana 6
+Importancia de la estructuración de datos para el procesamiento eficiente y automatizado.
+
 ## 🔗 Enlaces a las actividades
+- Organización estructurada de archivos por semanas
+- Redacción clara de reflexiones, algoritmos y conceptos técnicos
+- Compromiso con la documentación técnica
+- Navegación y uso eficaz de la terminal
+- Inicialización de proyectos Node.js con pnpm
 
 - [Semana 1](./semana1/)
 - [Semana 2](./semana2/)
 - [Semana 3](./semana3/)
 - [Semana 4](./semana4/)
+- [Semana 5](./semana5/)
+- [Semana 6](./semana6/)
+
 
 ## 🚀 Habilidades demostradas
 
