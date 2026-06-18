@@ -11,6 +11,8 @@ Comprometido con el uso ético y responsable de la tecnología para construir un
 ## 🎯 Objetivo del Repositorio
 Este repositorio documenta mi proceso de aprendizaje en temas de ciudadanía digital, pensamiento algorítmico, Git, Node.js, Express y APIs.
 
+Este repositorio documenta mi proceso de aprendizaje en **Semana 1, Semana 2, Semana 3, Semana 4, Semana 5, Semana 6 y Semana 7**, donde se trabajaron los conceptos fundamentales de:
+>>>>>>> 10d901f (Agctividad semana 7)
 
 - **Ciudadanía Digital**
 - **Uso responsable de la información**
@@ -18,6 +20,8 @@ Este repositorio documenta mi proceso de aprendizaje en temas de ciudadanía dig
 - **Organización técnica del trabajo con Git y GitHub**
 - **Conceptos básicos de Git (repositorio, commit, push)**
 - **Desarrollo de servidores con Node.js y Express**
+- **APIs REST, rutas GET y POST, JSON y manejo de datos estructurados**
+- **Sistemas de reportes ciudadanos y participación digital comunitaria**
 
 ## 📁 Estructura del Proyecto
 
@@ -43,6 +47,7 @@ programadores-para-la-paz/
 ├── semana5/
 │   ├── preguntas-semana5.txt
 │   ├── reflexion-semana5.txt
+<<<<<<< HEAD
 │   ├── server.js
 │   └── package.json
 ├── semana6/
@@ -51,6 +56,23 @@ programadores-para-la-paz/
 │   ├── prueba api.txt
 │   ├── server.js
 │   └── package.json
+=======
+│   ├── conceptos-api.txt
+│   ├── pruebas.txt
+│   └── server.js
+├── semana6/
+│   ├── preguntas-semana6.txt
+│   ├── reflexion-semana6.txt
+│   ├── prueba-api.txt
+│   ├── Ejemplo-incidencia.txt
+│   └── server.js
+├── semana7/
+│   ├── preguntas-semana7.txt
+│   ├── reflexion-semana7.txt
+│   ├── prueba-reportes.txt
+│   ├── ejemplos-reportes.txt
+│   └── server_semana7.js
+>>>>>>> 10d901f (Agctividad semana 7)
 ├── README.md
 └── .gitignore
 ```
@@ -84,10 +106,38 @@ programadores-para-la-paz/
 - **Puerto 3000**: Despliegue local y verificación en `http://localhost:3000`.
 
 ## ✅ Temas trabajados en Semana 5
+<<<<<<< HEAD
 Conceptos de API: rutas POST y manejo de datos JSON.
 
 ## ✅ Temas trabajados en Semana 6
 Importancia de la estructuración de datos para el procesamiento eficiente y automatizado.
+=======
+
+- **APIs REST**: Interfaces que permiten que aplicaciones o sistemas se comuniquen entre sí.
+- **Métodos HTTP**: Uso de `GET` para consultar información y `POST` para enviar datos al servidor.
+- **Rutas en Express**: Implementación de rutas como `/`, `/saludo`, `/mensaje/:nombre` y `/reporte`.
+- **Parámetros dinámicos**: Uso de `req.params` en rutas como `/mensaje/:nombre`.
+- **JSON en el body**: Recepción de datos enviados mediante `POST /reporte` con `express.json()`.
+- **Aplicación comunitaria**: Diseño conceptual de reportes ciudadanos para alertas, servicios públicos, seguridad y necesidades urgentes.
+
+## ✅ Temas trabajados en Semana 6
+
+- **JSON**: Formato de intercambio de datos entre aplicaciones.
+- **Middleware `express.json()`**: Lectura e interpretación de cuerpos JSON en peticiones HTTP.
+- **Manejo de `req.body`**: Extracción de datos enviados por el cliente en solicitudes `POST`.
+- **Endpoint `/registro`**: Recepción de `nombre` y `mensaje` desde un JSON.
+- **Endpoint `/incidencia`**: Registro de incidencias ciudadanas con `tipo` y `descripcion`.
+- **Reportes estructurados**: Uso de datos organizados para clasificar, priorizar y atender problemas comunitarios.
+
+## ✅ Temas trabajados en Semana 7
+
+- **Arrays en programación**: Almacenamiento temporal de múltiples reportes en una lista.
+- **Endpoint `GET /reportes`**: Consulta de reportes registrados en memoria.
+- **Endpoint `POST /reportes`**: Creación de nuevos reportes con `id`, `tipo` y `descripcion`.
+- **Persistencia en memoria**: Los reportes se almacenan en un array mientras el servidor está activo.
+- **Transparencia comunitaria**: Consulta de reportes para evitar duplicados y hacer seguimiento a solicitudes.
+- **Escalabilidad**: Posible incorporación futura de bases de datos y autenticación.
+>>>>>>> 10d901f (Agctividad semana 7)
 
 ## 🔗 Enlaces a las actividades
 - Organización estructurada de archivos por semanas
@@ -102,7 +152,11 @@ Importancia de la estructuración de datos para el procesamiento eficiente y aut
 - [Semana 4](./semana4/)
 - [Semana 5](./semana5/)
 - [Semana 6](./semana6/)
+<<<<<<< HEAD
 
+=======
+- [Semana 7](./semana7/)
+>>>>>>> 10d901f (Agctividad semana 7)
 
 ## 🚀 Habilidades demostradas
 
@@ -114,6 +168,10 @@ Importancia de la estructuración de datos para el procesamiento eficiente y aut
 - Navegación y uso eficaz de la terminal
 - Inicialización de proyectos Node.js con pnpm
 - Creación de servidores web con Express
+- Diseño de rutas GET y POST para APIs REST
+- Manejo de JSON y datos enviados en el body de una petición
+- Implementación de reportes ciudadanos en memoria con arrays
+- Aplicación de conceptos técnicos a soluciones de participación comunitaria
 
 ---
 
