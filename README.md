@@ -9,10 +9,8 @@ Estudiante de **Programadores Para La Paz**
 Comprometido con el uso ético y responsable de la tecnología para construir una sociedad más justa y pacífica.
 
 ## 🎯 Objetivo del Repositorio
-Este repositorio documenta mi proceso de aprendizaje en temas de ciudadanía digital, pensamiento algorítmico, Git, Node.js, Express y APIs.
 
 Este repositorio documenta mi proceso de aprendizaje en **Semana 1, Semana 2, Semana 3, Semana 4, Semana 5, Semana 6 y Semana 7**, donde se trabajaron los conceptos fundamentales de:
->>>>>>> 10d901f (Agctividad semana 7)
 
 - **Ciudadanía Digital**
 - **Uso responsable de la información**
@@ -47,16 +45,6 @@ programadores-para-la-paz/
 ├── semana5/
 │   ├── preguntas-semana5.txt
 │   ├── reflexion-semana5.txt
-<<<<<<< HEAD
-│   ├── server.js
-│   └── package.json
-├── semana6/
-│   ├── preguntas-semana6.txt
-│   ├── reflexion-semana6.txt
-│   ├── prueba api.txt
-│   ├── server.js
-│   └── package.json
-=======
 │   ├── conceptos-api.txt
 │   ├── pruebas.txt
 │   └── server.js
@@ -72,7 +60,6 @@ programadores-para-la-paz/
 │   ├── prueba-reportes.txt
 │   ├── ejemplos-reportes.txt
 │   └── server_semana7.js
->>>>>>> 10d901f (Agctividad semana 7)
 ├── README.md
 └── .gitignore
 ```
@@ -106,12 +93,6 @@ programadores-para-la-paz/
 - **Puerto 3000**: Despliegue local y verificación en `http://localhost:3000`.
 
 ## ✅ Temas trabajados en Semana 5
-<<<<<<< HEAD
-Conceptos de API: rutas POST y manejo de datos JSON.
-
-## ✅ Temas trabajados en Semana 6
-Importancia de la estructuración de datos para el procesamiento eficiente y automatizado.
-=======
 
 - **APIs REST**: Interfaces que permiten que aplicaciones o sistemas se comuniquen entre sí.
 - **Métodos HTTP**: Uso de `GET` para consultar información y `POST` para enviar datos al servidor.
@@ -137,14 +118,8 @@ Importancia de la estructuración de datos para el procesamiento eficiente y aut
 - **Persistencia en memoria**: Los reportes se almacenan en un array mientras el servidor está activo.
 - **Transparencia comunitaria**: Consulta de reportes para evitar duplicados y hacer seguimiento a solicitudes.
 - **Escalabilidad**: Posible incorporación futura de bases de datos y autenticación.
->>>>>>> 10d901f (Agctividad semana 7)
 
 ## 🔗 Enlaces a las actividades
-- Organización estructurada de archivos por semanas
-- Redacción clara de reflexiones, algoritmos y conceptos técnicos
-- Compromiso con la documentación técnica
-- Navegación y uso eficaz de la terminal
-- Inicialización de proyectos Node.js con pnpm
 
 - [Semana 1](./semana1/)
 - [Semana 2](./semana2/)
@@ -153,7 +128,6 @@ Importancia de la estructuración de datos para el procesamiento eficiente y aut
 - [Semana 5](./semana5/)
 - [Semana 6](./semana6/)
 - [Semana 7](./semana7/)
->>>>>>> 10d901f (Agctividad semana 7)
 
 ## 🚀 Habilidades demostradas
 
